@@ -1,0 +1,145 @@
+﻿.top{
+padding-left:50px;
+color:darkblue;
+font-style:normal;
+}
+*{
+box-sizing: border-box;
+}
+.box {
+padding: 20px;
+border: 1px solid #cafc03;
+background-color: yellowgreen;
+}
+.row{
+padding-left:50px;
+display:flex;
+width:100%;
+}
+.column1 {
+
+float: left;
+width: 25%;
+}
+.column2 {
+color:#301069;
+float: left;
+width: 65%;
+}
+.column3{
+	float: left;
+	width: 10%;
+}
+.border{
+border:1px solid black;
+width:80%;
+height:1110px;
+}
+.background{
+margin-top:-20px;
+background-color:bisque;
+width:100%
+}
+.back1{
+padding: 10px;
+background-color: yellowgreen;
+}
+.color{
+background-color:bisque;
+height:50px;
+}
+.back2
+{
+margin-top:-5px;
+padding: 10px;
+background-color: yellowgreen;
+}
+.button{
+color:blue;
+font-size:medium;
+background-color:white;
+border-style:none;
+width:50%;
+}
+.style{
+
+padding:10px;
+margin-bottom:1px;
+text-align:center;
+}
+ .background1{
+margin-top:-20px;
+background-color:bisque;
+width:100%
+
+}
+h2{
+	color:#301069;
+}
+footer
+{
+	background-color: yellowgreen;
+    height:35px;
+    font-weight:bold;
+    font-size:25px;
+    color:#223850;
+    text-align:center;
+}
+#checkCardNumber{
+	display:none;
+	color:red;
+}
+#checkCode{
+	display:none;
+	color:red;
+}
+#checkName{
+	display:none;
+	color:red;
+}
+#checkFirstAddress{
+	display:none;
+	color:red;
+}
+#checkSecondAddress{
+	display:none;
+	color:red;
+}
+#checkThirdAddresss{
+	display:none;
+	color:red;
+}
+#checkCity{
+	display:none;
+	color:red;
+}
+#checkRegion{
+	display:none;
+	color:red;
+}
+#checkPostCode{
+display:none;
+	color:red;
+}
+#checkTelephone{
+	display:none;
+	color:red;
+}
+#checkFax{
+	display:none;
+	color:red;
+}
+#checkEmail{
+	display:none;
+	color:red;
+}
+.first_icon{
+	height: 20px;
+	width: 20px;
+	margin-top: 205px;
+}
+.second_icon{
+	height: 20px;
+	width: 20px;
+	margin-top: 145px;
+}
